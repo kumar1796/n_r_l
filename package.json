@@ -2,7 +2,6 @@
   "name": "n_r_l",
   "version": "1.0.0",
   "description": "this is practice repo of namaste react",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
